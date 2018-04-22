@@ -9,7 +9,6 @@ object test1 {
     return y
   }
   
-
   def main(args: Array[String]): Unit = {
     println("sample run")
   }
