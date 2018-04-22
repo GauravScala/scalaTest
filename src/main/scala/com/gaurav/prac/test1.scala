@@ -5,6 +5,7 @@ object test1 {
     return x
   }
 
+  
   def testMethod2(y : String): String ={
     return y
   }
